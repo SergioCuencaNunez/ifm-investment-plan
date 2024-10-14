@@ -8,8 +8,25 @@ This document provides a summary of the weekly investment decisions made for the
 
 ### Week 1 (11.09 - 18.09)
 - Companies:
-  Inditex, Iberdrola, Santander, Amadeus, Apple, Microsoft, BioNTech, PepsiCo, Tesla, Amazon, ExxonMobil, JPMorgan Chase, Coca-Cola, Johnson & Johnson, Procter & Gamble, Allianz, Roche, ASML, Nestlé, Siemens Energy, GRAND TOTAL, nan, nan, nan, Benchmark Performance, Portfolio Performance, Relative Performance
-- Initial investments were allocated to the above companies within indices like IBEX35.
+    - Inditex
+    - Iberdrola
+    - Santander
+    - Amadeus
+    - Apple
+    - Microsoft
+    - BioNTech
+    - PepsiCo
+    - Tesla
+    - Amazon
+    - ExxonMobil
+    - JPMorgan Chase
+    - Coca-Cola
+    - Johnson & Johnson
+    - Procter & Gamble
+    - Allianz, Roche
+    - ASML
+    - Nestlé
+    - Siemens Energy
 - The total investment values were carefully distributed across these companies, focusing on balanced weighting.
 - Performance was tracked using adjusted close prices, with weekly performance percentages calculated for each company.
 
